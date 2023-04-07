@@ -128,12 +128,3 @@ docker-compose restart
 #  docker-compose 启动时重新进行 build
 docker-compose up -d --build
 ~~~
-
-### 捐赠支持
-
-- 二维码
-
-![image-01](./images/二维码.png)
-
-
-
